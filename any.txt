@@ -1,1 +1,2 @@
 un fichier de texte qcq
+modification sur la branche merge_with_conflict
